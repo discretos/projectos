@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Discretos</title>
+ <link href="http://discretos.github.io/atom.xml" rel="self"/>
+ <link href="http://discretos.github.io/"/>
+ <updated>2015-02-05T18:49:36+01:00</updated>
+ <id>http://discretos.github.io</id>
+ <author>
+   <name>Dizando Norton</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Exemplos</title>
+   <link href="http://discretos.github.io/2015/02/05/exemplos-disponi%CC%81veis/"/>
+   <updated>2015-02-05T00:00:00+01:00</updated>
+   <id>http://discretos.github.io/2015/02/05/exemplos-disponíveis</id>
+   <content type="html">&lt;p&gt;Pessoal,&lt;/p&gt;
+
+&lt;p&gt;Foram disponibilizadas algumas funções utilitárias para serem desenvolvidas pela equipa. As mesmas estão descritas na pasta
+&lt;a href=&quot;http://github.com/discretos/utilitarios&quot;&gt;utilitários&lt;/a&gt; na nosso repositório no GitHub.&lt;/p&gt;
+
+&lt;p&gt;Já lá existe também uma função de exemplo escrita em C. Fiquem a vontade para experimentar desenvolver as outras
+ou testar/traduzir o código fornecido.&lt;/p&gt;
+
+&lt;p&gt;Em breve teremos coisas de verdade.&lt;/p&gt;
+
+&lt;p&gt;Fiquem atentos ;-)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introdução</title>
+   <link href="http://discretos.github.io/2015/02/02/introduc%CC%A7a%CC%83o/"/>
+   <updated>2015-02-02T00:00:00+01:00</updated>
+   <id>http://discretos.github.io/2015/02/02/introdução</id>
+   <content type="html">&lt;p&gt;Sejam bemvindos a página principal do grupo Discretos.&lt;/p&gt;
+
+&lt;h3&gt;O que é este grupo?&lt;/h3&gt;
+
+&lt;p&gt;Este grupo é formado por estudantes de Ciência da Computação da Faculdade de Ciências da UAN com o objectivo a dar &amp;quot;vida&amp;quot; aos
+projectos de Estruturas Discretas utilizadas em Ciência da Computação.&lt;/p&gt;
+
+&lt;h3&gt;O que fazem?&lt;/h3&gt;
+
+&lt;p&gt;Criamos projectos web (e não só) para desenvolver simulações de situações reais que envolvem Estruturas Discretas (grafos, árvores, relações, etc.).&lt;/p&gt;
+
+&lt;h3&gt;Projectos&lt;/h3&gt;
+
+&lt;p&gt;Estão a ser cozinhados.&lt;/p&gt;
+
+&lt;h3&gt;Downloads&lt;/h3&gt;
+
+&lt;p&gt;Em breve teremos algo distribuível. :-)&lt;/p&gt;
+
+&lt;p&gt;Obrigado!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
