@@ -9,14 +9,12 @@ Neste projecto devemos implementar um sistema simples de geração de tabelas de
 se for dada a entrada da seguinte expressão <code>a AND b</code> deverá ser produzida a seguinte tabela de verdade:
 
 <br>
-<code>
 | a | b | a AND b |
 |--:|--:|--------:|
 | 0 | 0 |    0    |
 | 0 | 1 |    0    |
 | 1 | 0 |    0	  |
 | 1 | 1 |    1	  |
-</code>
 
 ### Requisitos
 * O sistema deve correr numa página web
