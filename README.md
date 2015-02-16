@@ -16,11 +16,12 @@ se for dada a entrada da seguinte expressão <code>a AND b</code> deverá ser pr
 | 1 | 0 |    0	  |
 | 1 | 1 |    1	  |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| a  | b  | a AND b  |
+| -- | -- | -------- |
+| 0  | 0  | 0        |
+| 0  | 1  | 0 		 |
+| 1  | 0  | 0        |
+| 1  | 1  | 1        |
 
 ### Requisitos
 * O sistema deve correr numa página web
