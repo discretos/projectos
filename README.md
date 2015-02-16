@@ -8,6 +8,15 @@ uma conjunção de duas proposições será <b>verdadeira</b>. A negação de um
 Neste projecto devemos implementar um sistema simples de geração de tabelas de verdade da uma expressão lógica. Por exemplo,
 se for dada a entrada da seguinte expressão <code>a AND b</code> deverá ser produzida a seguinte tabela de verdade:
 
+<code>
+<table>
+<tr><td>a</td><td>b</td><td>a AND b</td></tr>
+<tr><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>0</td><td>1</td><td>0</td></tr>
+<tr><td>1</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>1</td><td>1</td></tr>
+</table>
+</code>
 
 | a  | b  | a AND b  |
 | -- | -- | -------- |
