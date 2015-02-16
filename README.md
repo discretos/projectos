@@ -18,13 +18,6 @@ se for dada a entrada da seguinte expressão <code>a AND b</code> deverá ser pr
 </table>
 </code>
 
-| a  | b  | a AND b  |
-| -- | -- | -------- |
-| 0  | 0  | 0        |
-| 0  | 1  | 0 		 |
-| 1  | 0  | 0        |
-| 1  | 1  | 1        |
-
 ### Requisitos
 * O sistema deve correr numa página web
 * Implementar algumas operações de exemplo
