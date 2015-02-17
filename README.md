@@ -25,4 +25,9 @@ se for dada a entrada da seguinte expressão <code>a AND b</code> deverá ser pr
 * Implementar mecanismos de validação de expressões bem formadas
 *+ Implemetar um construtor de tabelas interativo (controi a tabela automaticamente mas que também constroí passo por passo)
 
-### Observações
+### TODO
+* <code>verificaExpressao.js</code> - ILTON/PAULO
+* <code>constroiTabela.js</code> - QUISSAQUE
+* <code>index.html</code> - MÁRIO
+* Código inicial - DIZANDO
+
